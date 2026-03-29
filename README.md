@@ -17,5 +17,5 @@
 - E-commerce App
 
 ## 📫 Connect with me
-- LinkedIn: [your link](https://www.linkedin.com/in/azzaa-sherif-612b4a2b2/)
-- GitHub: [your link](https://github.com/azzaasherif-flutter)
+- LinkedIn: (https://www.linkedin.com/in/azzaa-sherif-612b4a2b2/)
+- GitHub:(https://github.com/azzaasherif-flutter)
